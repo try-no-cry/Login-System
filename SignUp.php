@@ -3,7 +3,7 @@
    <html>
     <head>
         <title>Sign Up -page</title>
-        <link href="styleSignUp.css" type="text/css" rel="stylesheet">
+        <link href="css/styleSignUp.css" type="text/css" rel="stylesheet">
     </head>
     <body>
         <div>
