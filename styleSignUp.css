@@ -1,0 +1,43 @@
+*{
+    
+    padding:0px;
+    margin: 0px;
+    
+}
+
+div{
+    border: red solid ;
+    text-align: center;
+    width: 30%;
+    margin: 10% auto ;
+    
+}
+
+header{
+    padding: 10px ;
+    font-size: 20px;
+    
+}
+
+.inputs{
+    min-height: 30;
+    padding: 2px 5px;
+    margin-bottom: 10px ;
+    width: 70%;
+
+
+}
+
+
+button{
+    padding:5px;
+    margin-bottom: 10px;
+    outline: none;
+    border: none;
+    background-color: brown;
+    color: white;
+    font-size: 1em;
+     
+
+}
+
